@@ -1,0 +1,88 @@
+{
+    "id": "patient_demo_001",
+    "demo": true,
+    "name": "Anima Dutta",
+    "preferredName": "Anima Aita",
+    "age": 71,
+    "gender": "female",
+    "state": "Assam",
+    "city": "Guwahati",
+    "region": "North Eastern Region",
+    "primaryLanguage": "Assamese",
+    "supportedLanguages": [
+      "Assamese",
+      "Hindi",
+      "English"
+    ],
+    "profileSummary": "Fictional demonstration profile representing an elderly Assamese woman with strong emotional associations with family, food, music, festivals, tea and familiar places.",
+    "family": {
+      "husband": {
+        "name": "Pradip",
+        "relationship": "husband"
+      },
+      "daughter": {
+        "name": "Mitali",
+        "relationship": "daughter"
+      },
+      "son": {
+        "name": "Arun",
+        "relationship": "son"
+      },
+      "grandson": {
+        "name": "Rohan",
+        "relationship": "grandson"
+      }
+    },
+    "interests": [
+      "family photographs",
+      "gardening",
+      "Assamese music",
+      "Bihu celebrations",
+      "tea",
+      "traditional food",
+      "morning walks",
+      "family conversations"
+    ],
+    "favoriteThings": {
+      "food": [
+        "til pitha",
+        "ghila pitha",
+        "khar",
+        "maas tenga"
+      ],
+      "drink": "Assam tea",
+      "flower": "kopou phool",
+      "color": "green",
+      "music": "Bihu songs",
+      "place": "Brahmaputra riverbank"
+    },
+    "familiarPlaces": [
+      "Guwahati",
+      "Brahmaputra riverbank",
+      "family home",
+      "local market",
+      "tea garden"
+    ],
+    "memoryStrengths": [
+      "family members",
+      "familiar foods",
+      "music",
+      "festivals",
+      "familiar places",
+      "objects",
+      "daily routines"
+    ],
+    "memoryChallenges": [
+      "recent events",
+      "recent conversations",
+      "dates",
+      "unfamiliar names",
+      "multi-step instructions"
+    ],
+    "preferredInteractionStyle": {
+      "textSize": "large",
+      "interactionMode": "voice_and_tap",
+      "feedbackStyle": "warm_and_encouraging",
+      "questionComplexity": "simple"
+    }
+  }

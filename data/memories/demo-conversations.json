@@ -1,0 +1,153 @@
+[
+    {
+      "id": "conversation_001",
+      "category": "family",
+      "question": "Who is Mitali?",
+      "acceptedAnswers": [
+        "Mitali",
+        "daughter",
+        "my daughter"
+      ],
+      "memoryId": "memory_001",
+      "successMessage": "Yes! Mitali is your daughter. She often enjoys having evening tea with you.",
+      "encouragementMessage": "That's right. You remembered Mitali.",
+      "hint": "She is someone from your family who visits you for tea.",
+      "languageVariants": {
+        "english": "Who is Mitali?",
+        "hindi": "Mitali kaun hai?",
+        "assamese": "মিতালী কোন?"
+      }
+    },
+    {
+      "id": "conversation_002",
+      "category": "family",
+      "question": "What is your grandson's name?",
+      "acceptedAnswers": [
+        "Rohan",
+        "Rohan is my grandson",
+        "my grandson is Rohan"
+      ],
+      "memoryId": "memory_003",
+      "successMessage": "Yes! Your grandson is Rohan.",
+      "encouragementMessage": "Wonderful. You remembered Rohan.",
+      "hint": "You enjoy telling him small stories.",
+      "languageVariants": {
+        "english": "What is your grandson's name?",
+        "hindi": "Aapke pote ka naam kya hai?",
+        "assamese": "আপোনাৰ নাতিৰ নাম কি?"
+      }
+    },
+    {
+      "id": "conversation_003",
+      "category": "food",
+      "question": "Which traditional food do you remember from Bihu?",
+      "acceptedAnswers": [
+        "til pitha",
+        "ghila pitha",
+        "pitha"
+      ],
+      "memoryId": "memory_004",
+      "successMessage": "Yes! Pitha is a familiar part of your Bihu memories.",
+      "encouragementMessage": "That's right. Pitha brings back a familiar festival memory.",
+      "hint": "It is a traditional rice-based festive food.",
+      "languageVariants": {
+        "english": "Which traditional food do you remember from Bihu?",
+        "hindi": "Bihu ke samay aapko kaunsa paramparik khana yaad hai?",
+        "assamese": "বিহুৰ সময়ত আপোনাৰ কোনটো পৰম্পৰাগত খাদ্য মনত পৰে?"
+      }
+    },
+    {
+      "id": "conversation_004",
+      "category": "festival",
+      "question": "Which festival brings back memories of music and family celebrations?",
+      "acceptedAnswers": [
+        "Bihu",
+        "Rongali Bihu",
+        "Magh Bihu"
+      ],
+      "memoryId": "memory_009",
+      "successMessage": "Yes! Bihu is closely connected with your family memories.",
+      "encouragementMessage": "Beautiful. You remembered Bihu.",
+      "hint": "It is a major Assamese festival associated with music and celebration.",
+      "languageVariants": {
+        "english": "Which festival brings back memories of music and family celebrations?",
+        "hindi": "Kaunsa tyohar aapko sangeet aur parivaar ki yaadein dilata hai?",
+        "assamese": "কোনটো উৎসৱে আপোনাক সংগীত আৰু পৰিয়ালৰ স্মৃতি মনত পেলায়?"
+      }
+    },
+    {
+      "id": "conversation_005",
+      "category": "music",
+      "question": "What kind of music do you enjoy?",
+      "acceptedAnswers": [
+        "Bihu songs",
+        "Bihu music",
+        "Assamese songs",
+        "folk songs"
+      ],
+      "memoryId": "memory_011",
+      "successMessage": "Yes! You enjoy Bihu songs and familiar Assamese music.",
+      "encouragementMessage": "That's right. Familiar music is an important part of your memories.",
+      "hint": "Think about the music you hear during Bihu.",
+      "languageVariants": {
+        "english": "What kind of music do you enjoy?",
+        "hindi": "Aapko kis tarah ka sangeet pasand hai?",
+        "assamese": "আপুনি কেনেধৰণৰ সংগীত ভাল পায়?"
+      }
+    },
+    {
+      "id": "conversation_006",
+      "category": "place",
+      "question": "Which river do you remember visiting with your family?",
+      "acceptedAnswers": [
+        "Brahmaputra",
+        "Brahmaputra river"
+      ],
+      "memoryId": "memory_012",
+      "successMessage": "Yes! You remember the Brahmaputra riverbank.",
+      "encouragementMessage": "Wonderful. That is a familiar place from your memories.",
+      "hint": "Think of the great river that flows through Assam.",
+      "languageVariants": {
+        "english": "Which river do you remember visiting with your family?",
+        "hindi": "Aapko parivaar ke saath kaunsi nadi par jaana yaad hai?",
+        "assamese": "পৰিয়ালৰ সৈতে আপুনি কোনখন নদীলৈ যোৱা মনত আছে?"
+      }
+    },
+    {
+      "id": "conversation_007",
+      "category": "drink",
+      "question": "What do you enjoy drinking in the morning?",
+      "acceptedAnswers": [
+        "tea",
+        "Assam tea",
+        "chai"
+      ],
+      "memoryId": "memory_008",
+      "successMessage": "Yes! You enjoy Assam tea in the morning.",
+      "encouragementMessage": "That's right. Morning tea is part of your familiar routine.",
+      "hint": "It is a warm drink made from tea leaves.",
+      "languageVariants": {
+        "english": "What do you enjoy drinking in the morning?",
+        "hindi": "Aap subah kya peena pasand karti hain?",
+        "assamese": "আপুনি ৰাতিপুৱা কি খাবলৈ ভাল পায়?"
+      }
+    },
+    {
+      "id": "conversation_008",
+      "category": "object",
+      "question": "What familiar object reminds you of Assamese celebrations?",
+      "acceptedAnswers": [
+        "gamosa",
+        "gamusa"
+      ],
+      "memoryId": "memory_016",
+      "successMessage": "Yes! The gamosa is a familiar part of your memories.",
+      "encouragementMessage": "You remembered it.",
+      "hint": "It is a traditional Assamese cloth.",
+      "languageVariants": {
+        "english": "What familiar object reminds you of Assamese celebrations?",
+        "hindi": "Kaunsi parichit cheez aapko Assamese celebrations ki yaad dilati hai?",
+        "assamese": "কোনটো পৰিচিত বস্তুৱে আপোনাক অসমীয়া উৎসৱৰ কথা মনত পেলায়?"
+      }
+    }
+  ]

@@ -1,0 +1,361 @@
+[
+    {
+      "id": "memory_001",
+      "category": "family",
+      "title": "Daughter Mitali",
+      "content": "Anima Aita's daughter is named Mitali. Mitali often visits her mother and enjoys sitting with her during evening tea.",
+      "entities": [
+        "Anima Aita",
+        "Mitali"
+      ],
+      "importance": "high",
+      "difficulty": "easy",
+      "activityTypes": [
+        "recognition",
+        "recall",
+        "conversation"
+      ],
+      "language": "English"
+    },
+    {
+      "id": "memory_002",
+      "category": "family",
+      "title": "Son Arun",
+      "content": "Anima Aita's son is named Arun. He often helps with errands and household tasks.",
+      "entities": [
+        "Anima Aita",
+        "Arun"
+      ],
+      "importance": "high",
+      "difficulty": "easy",
+      "activityTypes": [
+        "recognition",
+        "recall"
+      ],
+      "language": "English"
+    },
+    {
+      "id": "memory_003",
+      "category": "family",
+      "title": "Grandson Rohan",
+      "content": "Anima Aita's grandson is named Rohan. She enjoys telling him small stories and spending time with him when he visits.",
+      "entities": [
+        "Anima Aita",
+        "Rohan"
+      ],
+      "importance": "high",
+      "difficulty": "easy",
+      "activityTypes": [
+        "recognition",
+        "recall",
+        "conversation"
+      ],
+      "language": "English"
+    },
+    {
+      "id": "memory_004",
+      "category": "food",
+      "title": "Til Pitha",
+      "content": "Anima Aita remembers til pitha as a familiar festive food. She associates its rice-flour and sesame flavours with family gatherings around Bihu.",
+      "entities": [
+        "Anima Aita",
+        "til pitha",
+        "Bihu"
+      ],
+      "importance": "high",
+      "difficulty": "easy",
+      "activityTypes": [
+        "recognition",
+        "recall",
+        "conversation"
+      ],
+      "language": "English"
+    },
+    {
+      "id": "memory_005",
+      "category": "food",
+      "title": "Ghila Pitha",
+      "content": "Anima Aita remembers ghila pitha as a traditional sweet prepared during special occasions and family celebrations.",
+      "entities": [
+        "Anima Aita",
+        "ghila pitha"
+      ],
+      "importance": "medium",
+      "difficulty": "medium",
+      "activityTypes": [
+        "recognition",
+        "recall",
+        "sequence"
+      ],
+      "language": "English"
+    },
+    {
+      "id": "memory_006",
+      "category": "food",
+      "title": "Khar",
+      "content": "Khar is a familiar Assamese dish in Anima Aita's memory of traditional meals at home.",
+      "entities": [
+        "Anima Aita",
+        "khar"
+      ],
+      "importance": "medium",
+      "difficulty": "medium",
+      "activityTypes": [
+        "recognition",
+        "recall"
+      ],
+      "language": "English"
+    },
+    {
+      "id": "memory_007",
+      "category": "food",
+      "title": "Maas Tenga",
+      "content": "Anima Aita remembers maas tenga as a familiar fish dish associated with traditional Assamese family meals.",
+      "entities": [
+        "Anima Aita",
+        "maas tenga"
+      ],
+      "importance": "medium",
+      "difficulty": "medium",
+      "activityTypes": [
+        "recognition",
+        "recall",
+        "conversation"
+      ],
+      "language": "English"
+    },
+    {
+      "id": "memory_008",
+      "category": "drink",
+      "title": "Morning Assam Tea",
+      "content": "Anima Aita enjoys Assam tea in the morning. Having tea is part of her familiar daily routine.",
+      "entities": [
+        "Anima Aita",
+        "Assam tea"
+      ],
+      "importance": "high",
+      "difficulty": "easy",
+      "activityTypes": [
+        "recognition",
+        "recall",
+        "routine"
+      ],
+      "language": "English"
+    },
+    {
+      "id": "memory_009",
+      "category": "festival",
+      "title": "Rongali Bihu",
+      "content": "Anima Aita remembers Rongali Bihu as a joyful family celebration involving new clothes, music, food and visits from relatives.",
+      "entities": [
+        "Anima Aita",
+        "Rongali Bihu"
+      ],
+      "importance": "high",
+      "difficulty": "medium",
+      "activityTypes": [
+        "recognition",
+        "recall",
+        "conversation",
+        "sequence"
+      ],
+      "language": "English"
+    },
+    {
+      "id": "memory_010",
+      "category": "festival",
+      "title": "Magh Bihu",
+      "content": "Anima Aita remembers Magh Bihu through family feasts and traditional foods prepared around the festival.",
+      "entities": [
+        "Anima Aita",
+        "Magh Bihu"
+      ],
+      "importance": "high",
+      "difficulty": "medium",
+      "activityTypes": [
+        "recognition",
+        "recall",
+        "conversation"
+      ],
+      "language": "English"
+    },
+    {
+      "id": "memory_011",
+      "category": "music",
+      "title": "Bihu Songs",
+      "content": "Anima Aita enjoys listening to Bihu songs. Familiar music reminds her of celebrations, family gatherings and earlier memories.",
+      "entities": [
+        "Anima Aita",
+        "Bihu songs"
+      ],
+      "importance": "high",
+      "difficulty": "easy",
+      "activityTypes": [
+        "recognition",
+        "conversation",
+        "recall"
+      ],
+      "language": "English"
+    },
+    {
+      "id": "memory_012",
+      "category": "place",
+      "title": "Brahmaputra Riverbank",
+      "content": "Anima Aita remembers visiting the Brahmaputra riverbank with family. The river is associated with peaceful evenings and familiar surroundings.",
+      "entities": [
+        "Anima Aita",
+        "Brahmaputra"
+      ],
+      "importance": "high",
+      "difficulty": "medium",
+      "activityTypes": [
+        "recognition",
+        "recall",
+        "conversation"
+      ],
+      "language": "English"
+    },
+    {
+      "id": "memory_013",
+      "category": "routine",
+      "title": "Morning Garden",
+      "content": "Anima Aita enjoys looking after plants in the morning. She likes spending quiet time in the garden before starting the rest of her day.",
+      "entities": [
+        "Anima Aita",
+        "garden"
+      ],
+      "importance": "medium",
+      "difficulty": "easy",
+      "activityTypes": [
+        "recall",
+        "conversation",
+        "routine"
+      ],
+      "language": "English"
+    },
+    {
+      "id": "memory_014",
+      "category": "object",
+      "title": "Family Photograph",
+      "content": "Anima Aita keeps an old family photograph. Looking at the photograph helps her remember familiar faces and family gatherings.",
+      "entities": [
+        "Anima Aita",
+        "family photograph"
+      ],
+      "importance": "high",
+      "difficulty": "medium",
+      "activityTypes": [
+        "recognition",
+        "recall",
+        "conversation"
+      ],
+      "language": "English"
+    },
+    {
+      "id": "memory_015",
+      "category": "place",
+      "title": "Tea Garden Visit",
+      "content": "Anima Aita remembers visiting a tea garden with her family. She associates the visit with greenery, fresh air and drinking tea together.",
+      "entities": [
+        "Anima Aita",
+        "tea garden"
+      ],
+      "importance": "medium",
+      "difficulty": "medium",
+      "activityTypes": [
+        "recognition",
+        "recall",
+        "conversation"
+      ],
+      "language": "English"
+    },
+    {
+      "id": "memory_016",
+      "category": "object",
+      "title": "Traditional Gamosa",
+      "content": "Anima Aita remembers a traditional Assamese gamosa as a familiar household and cultural object, especially around celebrations and family occasions.",
+      "entities": [
+        "Anima Aita",
+        "gamosa"
+      ],
+      "importance": "high",
+      "difficulty": "easy",
+      "activityTypes": [
+        "recognition",
+        "recall"
+      ],
+      "language": "English"
+    },
+    {
+      "id": "memory_017",
+      "category": "family",
+      "title": "Evening With Family",
+      "content": "Anima Aita enjoys sitting with family in the evening, talking about everyday life while having tea.",
+      "entities": [
+        "Anima Aita",
+        "family",
+        "tea"
+      ],
+      "importance": "high",
+      "difficulty": "easy",
+      "activityTypes": [
+        "conversation",
+        "recognition"
+      ],
+      "language": "English"
+    },
+    {
+      "id": "memory_018",
+      "category": "festival",
+      "title": "Bihu Music and Dance",
+      "content": "Anima Aita remembers Bihu celebrations through music, dancing and family gatherings. The sounds of traditional instruments are strongly associated with the festival in her memories.",
+      "entities": [
+        "Anima Aita",
+        "Bihu",
+        "music"
+      ],
+      "importance": "high",
+      "difficulty": "medium",
+      "activityTypes": [
+        "recognition",
+        "conversation",
+        "recall"
+      ],
+      "language": "English"
+    },
+    {
+      "id": "memory_019",
+      "category": "color",
+      "title": "Favorite Color",
+      "content": "Green is Anima Aita's favorite color. She especially likes seeing green plants and trees around her home.",
+      "entities": [
+        "Anima Aita",
+        "green"
+      ],
+      "importance": "medium",
+      "difficulty": "easy",
+      "activityTypes": [
+        "recognition",
+        "recall"
+      ],
+      "language": "English"
+    },
+    {
+      "id": "memory_020",
+      "category": "family",
+      "title": "Family Stories",
+      "content": "Anima Aita enjoys telling her grandson Rohan small stories about family life and celebrations from earlier years.",
+      "entities": [
+        "Anima Aita",
+        "Rohan",
+        "family"
+      ],
+      "importance": "high",
+      "difficulty": "medium",
+      "activityTypes": [
+        "conversation",
+        "recall"
+      ],
+      "language": "English"
+    }
+  ]
