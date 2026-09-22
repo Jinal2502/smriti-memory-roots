@@ -1,0 +1,71 @@
+{
+  "id": "patient_demo_003",
+  "demo": true,
+  "name": "Ibemhal Sharma",
+  "preferredName": "Ibemhal Ima",
+  "age": 74,
+  "gender": "female",
+  "state": "Manipur",
+  "city": "Imphal",
+  "region": "North Eastern Region",
+  "primaryLanguage": "Meiteilon",
+  "supportedLanguages": [
+    "Meiteilon",
+    "Hindi",
+    "English"
+  ],
+  "profileSummary": "Fictional demonstration profile from Manipur. Memories of Ima Keithel, Lai Haraoba, and quiet evenings with her granddaughter.",
+  "memoryTheme": "The women's market and festival lamps",
+  "portrait": "",
+  "family": [
+    {
+      "name": "Tomba",
+      "relationship": "husband"
+    },
+    {
+      "name": "Thoibi",
+      "relationship": "daughter"
+    },
+    {
+      "name": "Leima",
+      "relationship": "granddaughter"
+    }
+  ],
+  "interests": [
+    "Ima Keithel",
+    "phanek weaving",
+    "Lai Haraoba",
+    "lotus ponds"
+  ],
+  "favoriteThings": {
+    "food": [
+      "eronba",
+      "singju",
+      "chak-hao kheer"
+    ],
+    "drink": "ngari tea",
+    "music": "pena songs",
+    "place": "Loktak lake"
+  },
+  "familiarPlaces": [
+    "Imphal",
+    "Ima Keithel",
+    "Loktak",
+    "Kangla"
+  ],
+  "memoryStrengths": [
+    "market routines",
+    "family",
+    "festivals"
+  ],
+  "memoryChallenges": [
+    "multi-step instructions",
+    "recent events"
+  ],
+  "preferredInteractionStyle": {
+    "textSize": "large",
+    "interactionMode": "voice_and_tap",
+    "feedbackStyle": "warm_and_encouraging",
+    "questionComplexity": "simple"
+  }
+}

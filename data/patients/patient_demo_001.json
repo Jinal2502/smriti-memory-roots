@@ -1,0 +1,80 @@
+{
+  "id": "patient_demo_001",
+  "demo": true,
+  "name": "Anima Dutta",
+  "preferredName": "Anima Aita",
+  "age": 71,
+  "gender": "female",
+  "state": "Assam",
+  "city": "Guwahati",
+  "region": "North Eastern Region",
+  "primaryLanguage": "Assamese",
+  "supportedLanguages": [
+    "Assamese",
+    "Hindi",
+    "English"
+  ],
+  "profileSummary": "Fictional demonstration profile from Assam. Strong associations with family, Assam tea, Bihu, and evenings by the Brahmaputra.",
+  "memoryTheme": "Tea, family evenings, and the river",
+  "portrait": "/images/people/anima.jpg",
+  "family": [
+    {
+      "name": "Pradip",
+      "relationship": "husband"
+    },
+    {
+      "name": "Mitali",
+      "relationship": "daughter"
+    },
+    {
+      "name": "Arun",
+      "relationship": "son"
+    },
+    {
+      "name": "Rohan",
+      "relationship": "grandson"
+    }
+  ],
+  "interests": [
+    "family photographs",
+    "gardening",
+    "Assamese music",
+    "Bihu celebrations",
+    "tea"
+  ],
+  "favoriteThings": {
+    "food": [
+      "til pitha",
+      "ghila pitha",
+      "khar",
+      "maas tenga"
+    ],
+    "drink": "Assam tea",
+    "flower": "kopou phool",
+    "music": "Bihu songs",
+    "place": "Brahmaputra riverbank"
+  },
+  "familiarPlaces": [
+    "Guwahati",
+    "Brahmaputra riverbank",
+    "family home",
+    "tea garden"
+  ],
+  "memoryStrengths": [
+    "family members",
+    "familiar foods",
+    "music",
+    "festivals"
+  ],
+  "memoryChallenges": [
+    "recent events",
+    "dates",
+    "unfamiliar names"
+  ],
+  "preferredInteractionStyle": {
+    "textSize": "large",
+    "interactionMode": "voice_and_tap",
+    "feedbackStyle": "warm_and_encouraging",
+    "questionComplexity": "simple"
+  }
+}

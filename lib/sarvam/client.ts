@@ -14,13 +14,19 @@ export async function sarvamChat(
 
   const response = await fetch(`${SARVAM_API_URL}/v1/chat/completions`, {
     method: "POST",
+
     headers: {
       "Content-Type": "application/json",
       "api-subscription-key": apiKey,
     },
+
     body: JSON.stringify({
       model: "sarvam-105b",
       messages,
+
+      // We want fast, simple responses for the elderly companion.
+      reasoning_effort: null,
+
       temperature: 0.3,
       max_tokens: 300,
     }),

@@ -1,0 +1,471 @@
+[
+  {
+    "id": "patient_demo_005_memory_001",
+    "patientId": "patient_demo_005",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "family",
+    "title": "Daughter Rina",
+    "content": "Reba Didimoni's daughter is Rina. She visits with flowers from the market.",
+    "entities": [
+      "Rina"
+    ],
+    "image": "https://images.unsplash.com/photo-1511895426328-dc8714191300?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Who visits with flowers?",
+    "choices": [
+      "Rina",
+      "Ayan",
+      "Suman"
+    ],
+    "correctChoice": "Rina"
+  },
+  {
+    "id": "patient_demo_005_memory_002",
+    "patientId": "patient_demo_005",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "family",
+    "title": "Grandson Ayan",
+    "content": "Ayan likes to sit in the courtyard and listen to Reba Didimoni's stories.",
+    "entities": [
+      "Ayan"
+    ],
+    "image": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Who listens to courtyard stories?",
+    "choices": [
+      "Ayan",
+      "Rohan",
+      "Karma"
+    ],
+    "correctChoice": "Ayan"
+  },
+  {
+    "id": "patient_demo_005_memory_003",
+    "patientId": "patient_demo_005",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "family",
+    "title": "Suman",
+    "content": "Reba Didimoni's husband is Suman. They used to walk near the palace gardens.",
+    "entities": [
+      "Suman"
+    ],
+    "image": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?auto=format&fit=crop&w=900&q=80",
+    "prompt": "Who walked near the palace gardens?",
+    "choices": [
+      "Suman",
+      "Tomba",
+      "Bah Don"
+    ],
+    "correctChoice": "Suman"
+  },
+  {
+    "id": "patient_demo_005_memory_004",
+    "patientId": "patient_demo_005",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "place",
+    "title": "Ujjayanta Palace",
+    "content": "Walks around Ujjayanta Palace are among Reba Didimoni's calmest memories.",
+    "entities": [
+      "Ujjayanta Palace"
+    ],
+    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Which palace gardens are familiar?",
+    "choices": [
+      "Ujjayanta Palace",
+      "Rumtek",
+      "Kangla"
+    ],
+    "correctChoice": "Ujjayanta Palace"
+  },
+  {
+    "id": "patient_demo_005_memory_005",
+    "patientId": "patient_demo_005",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "place",
+    "title": "Agartala Home",
+    "content": "The courtyard at home in Agartala is where evenings usually begin.",
+    "entities": [
+      "Agartala"
+    ],
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Which city is home?",
+    "choices": [
+      "Agartala",
+      "Shillong",
+      "Guwahati"
+    ],
+    "correctChoice": "Agartala"
+  },
+  {
+    "id": "patient_demo_005_memory_006",
+    "patientId": "patient_demo_005",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "place",
+    "title": "Local Market",
+    "content": "The local market is where Reba Didimoni chose fish and greens.",
+    "entities": [
+      "market"
+    ],
+    "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Where were fish and greens chosen?",
+    "choices": [
+      "The local market",
+      "The monastery",
+      "The tea garden"
+    ],
+    "correctChoice": "The local market"
+  },
+  {
+    "id": "patient_demo_005_memory_007",
+    "patientId": "patient_demo_005",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "food",
+    "title": "Pabda Fish",
+    "content": "Pabda fish cooked at home is a familiar monsoon meal.",
+    "entities": [
+      "pabda"
+    ],
+    "image": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Which fish is a familiar monsoon meal?",
+    "choices": [
+      "Pabda fish",
+      "Maas tenga",
+      "Momos"
+    ],
+    "correctChoice": "Pabda fish"
+  },
+  {
+    "id": "patient_demo_005_memory_008",
+    "patientId": "patient_demo_005",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "food",
+    "title": "Mui Borok",
+    "content": "Mui borok is associated with family tables and slow cooking.",
+    "entities": [
+      "mui borok"
+    ],
+    "image": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Which dish is cooked slowly for family?",
+    "choices": [
+      "Mui borok",
+      "Jadoh",
+      "Thukpa"
+    ],
+    "correctChoice": "Mui borok"
+  },
+  {
+    "id": "patient_demo_005_memory_009",
+    "patientId": "patient_demo_005",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "food",
+    "title": "Pitha",
+    "content": "Pitha is prepared when relatives visit.",
+    "entities": [
+      "pitha"
+    ],
+    "image": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "What is prepared when relatives visit?",
+    "choices": [
+      "Pitha",
+      "Axone",
+      "Sel roti"
+    ],
+    "correctChoice": "Pitha"
+  },
+  {
+    "id": "patient_demo_005_memory_010",
+    "patientId": "patient_demo_005",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "routine",
+    "title": "Lemon Tea",
+    "content": "Reba Didimoni enjoys lemon tea in the late afternoon.",
+    "entities": [
+      "lemon tea"
+    ],
+    "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "What is drunk in the late afternoon?",
+    "choices": [
+      "Lemon tea",
+      "Butter tea",
+      "Black coffee"
+    ],
+    "correctChoice": "Lemon tea"
+  },
+  {
+    "id": "patient_demo_005_memory_011",
+    "patientId": "patient_demo_005",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "festival",
+    "title": "Garia Puja",
+    "content": "Garia Puja is remembered through songs, gathering, and familiar food.",
+    "entities": [
+      "Garia Puja"
+    ],
+    "image": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Which festival is remembered through songs?",
+    "choices": [
+      "Garia Puja",
+      "Losar",
+      "Lai Haraoba"
+    ],
+    "correctChoice": "Garia Puja"
+  },
+  {
+    "id": "patient_demo_005_memory_012",
+    "patientId": "patient_demo_005",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "music",
+    "title": "Garia Songs",
+    "content": "Garia songs remind Reba Didimoni of courtyard evenings.",
+    "entities": [
+      "Garia songs"
+    ],
+    "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Which songs belong to courtyard evenings?",
+    "choices": [
+      "Garia songs",
+      "Bihu songs",
+      "Rock songs"
+    ],
+    "correctChoice": "Garia songs"
+  },
+  {
+    "id": "patient_demo_005_memory_013",
+    "patientId": "patient_demo_005",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "object",
+    "title": "Risha",
+    "content": "A woven risha is kept folded for festival photographs.",
+    "entities": [
+      "risha"
+    ],
+    "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Which woven cloth is kept for photographs?",
+    "choices": [
+      "Risha",
+      "Gamosa",
+      "Prayer flags"
+    ],
+    "correctChoice": "Risha"
+  },
+  {
+    "id": "patient_demo_005_memory_014",
+    "patientId": "patient_demo_005",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "stories",
+    "title": "Monsoon Stories",
+    "content": "Reba Didimoni tells Ayan about rains that filled the courtyard.",
+    "entities": [
+      "Ayan",
+      "rain"
+    ],
+    "image": "https://images.unsplash.com/photo-1428592953211-077101b2021b?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Who hears the monsoon stories?",
+    "choices": [
+      "Ayan",
+      "Leima",
+      "Naro"
+    ],
+    "correctChoice": "Ayan"
+  },
+  {
+    "id": "patient_demo_005_memory_015",
+    "patientId": "patient_demo_005",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "routine",
+    "title": "Courtyard Evening",
+    "content": "Evenings begin in the courtyard with tea and unhurried talk.",
+    "entities": [
+      "courtyard"
+    ],
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Where do evenings begin?",
+    "choices": [
+      "In the courtyard",
+      "On a highway",
+      "In a studio"
+    ],
+    "correctChoice": "In the courtyard"
+  },
+  {
+    "id": "patient_demo_005_memory_016",
+    "patientId": "patient_demo_005",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "object",
+    "title": "Old Photograph",
+    "content": "A photograph of Rina as a child sits beside the window.",
+    "entities": [
+      "photograph",
+      "Rina"
+    ],
+    "image": "https://images.unsplash.com/photo-1452587925488-aa02fd57252b?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Whose childhood photograph sits by the window?",
+    "choices": [
+      "Rina",
+      "Mitali",
+      "Iban"
+    ],
+    "correctChoice": "Rina"
+  },
+  {
+    "id": "patient_demo_005_memory_017",
+    "patientId": "patient_demo_005",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "sequence",
+      "recognition"
+    ],
+    "category": "place",
+    "title": "Palace Garden Path",
+    "content": "A shaded path near the palace is used for slow morning walks.",
+    "entities": [
+      "garden"
+    ],
+    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=1600&q=80",
+    "sequence": [
+      "Leave home early",
+      "Walk the shaded path",
+      "Sit for a while"
+    ]
+  },
+  {
+    "id": "patient_demo_005_memory_018",
+    "patientId": "patient_demo_005",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "festival",
+    "title": "Relatives Visiting",
+    "content": "Festival weeks mean extra plates, familiar songs, and relatives at the door.",
+    "entities": [
+      "family",
+      "festival"
+    ],
+    "image": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "What happens in festival weeks?",
+    "choices": [
+      "Relatives visit",
+      "The market closes forever",
+      "The hills disappear"
+    ],
+    "correctChoice": "Relatives visit"
+  }
+]

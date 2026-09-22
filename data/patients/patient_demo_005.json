@@ -1,0 +1,72 @@
+{
+  "id": "patient_demo_005",
+  "demo": true,
+  "name": "Reba Debbarma",
+  "preferredName": "Reba Didimoni",
+  "age": 70,
+  "gender": "female",
+  "state": "Tripura",
+  "city": "Agartala",
+  "region": "North Eastern Region",
+  "primaryLanguage": "Bengali",
+  "supportedLanguages": [
+    "Bengali",
+    "Kokborok",
+    "Hindi",
+    "English"
+  ],
+  "profileSummary": "Fictional demonstration profile from Tripura. Memories of Ujjayanta Palace walks, Garia Puja, and fish cooked at home.",
+  "memoryTheme": "Palace gardens and monsoon kitchens",
+  "portrait": "",
+  "family": [
+    {
+      "name": "Suman",
+      "relationship": "husband"
+    },
+    {
+      "name": "Rina",
+      "relationship": "daughter"
+    },
+    {
+      "name": "Ayan",
+      "relationship": "grandson"
+    }
+  ],
+  "interests": [
+    "risha weaving",
+    "Garia Puja",
+    "palace gardens",
+    "stories"
+  ],
+  "favoriteThings": {
+    "food": [
+      "mui borok",
+      "pabda fish",
+      "pitha"
+    ],
+    "drink": "lemon tea",
+    "music": "Garia songs",
+    "place": "Ujjayanta Palace"
+  },
+  "familiarPlaces": [
+    "Agartala",
+    "Ujjayanta Palace",
+    "local market",
+    "home courtyard"
+  ],
+  "memoryStrengths": [
+    "family",
+    "food",
+    "festivals"
+  ],
+  "memoryChallenges": [
+    "recent conversations",
+    "dates"
+  ],
+  "preferredInteractionStyle": {
+    "textSize": "large",
+    "interactionMode": "voice_and_tap",
+    "feedbackStyle": "warm_and_encouraging",
+    "questionComplexity": "simple"
+  }
+}

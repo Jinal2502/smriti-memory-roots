@@ -1,0 +1,71 @@
+{
+  "id": "patient_demo_004",
+  "demo": true,
+  "name": "Palden Lama",
+  "preferredName": "Palden Aaju",
+  "age": 76,
+  "gender": "male",
+  "state": "Sikkim",
+  "city": "Gangtok",
+  "region": "North Eastern Region",
+  "primaryLanguage": "Nepali",
+  "supportedLanguages": [
+    "Nepali",
+    "Bhutia",
+    "English"
+  ],
+  "profileSummary": "Fictional demonstration profile from Sikkim. Memories of monastery mornings, cardamom gardens, and walking with his grandson.",
+  "memoryTheme": "Monastery bells and mountain mornings",
+  "portrait": "",
+  "family": [
+    {
+      "name": "Yangchen",
+      "relationship": "wife"
+    },
+    {
+      "name": "Tenzing",
+      "relationship": "son"
+    },
+    {
+      "name": "Karma",
+      "relationship": "grandson"
+    }
+  ],
+  "interests": [
+    "Rumtek monastery",
+    "prayer flags",
+    "cardamom",
+    "thukpa"
+  ],
+  "favoriteThings": {
+    "food": [
+      "thukpa",
+      "momos",
+      "sel roti"
+    ],
+    "drink": "butter tea",
+    "music": "monastery chants",
+    "place": "MG Marg"
+  },
+  "familiarPlaces": [
+    "Gangtok",
+    "Rumtek",
+    "MG Marg",
+    "cardamom garden"
+  ],
+  "memoryStrengths": [
+    "places",
+    "routines",
+    "family"
+  ],
+  "memoryChallenges": [
+    "unfamiliar names",
+    "dates"
+  ],
+  "preferredInteractionStyle": {
+    "textSize": "large",
+    "interactionMode": "voice_and_tap",
+    "feedbackStyle": "warm_and_encouraging",
+    "questionComplexity": "simple"
+  }
+}

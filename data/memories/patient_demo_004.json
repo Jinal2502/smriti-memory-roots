@@ -1,0 +1,474 @@
+[
+  {
+    "id": "patient_demo_004_memory_001",
+    "patientId": "patient_demo_004",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "family",
+    "title": "Wife Yangchen",
+    "content": "Palden Aaju's wife is Yangchen. They drink butter tea together in the early morning.",
+    "entities": [
+      "Yangchen"
+    ],
+    "image": "https://images.unsplash.com/photo-1511895426328-dc8714191300?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Who drinks butter tea with Palden Aaju?",
+    "choices": [
+      "Yangchen",
+      "Karma",
+      "Tenzing"
+    ],
+    "correctChoice": "Yangchen"
+  },
+  {
+    "id": "patient_demo_004_memory_002",
+    "patientId": "patient_demo_004",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "family",
+    "title": "Son Tenzing",
+    "content": "Tenzing visits on weekends and walks with Palden Aaju along MG Marg.",
+    "entities": [
+      "Tenzing"
+    ],
+    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=900&q=80",
+    "prompt": "Who walks with Palden Aaju on weekends?",
+    "choices": [
+      "Tenzing",
+      "Arun",
+      "Dalen"
+    ],
+    "correctChoice": "Tenzing"
+  },
+  {
+    "id": "patient_demo_004_memory_003",
+    "patientId": "patient_demo_004",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "family",
+    "title": "Grandson Karma",
+    "content": "Karma likes to hold Palden Aaju's hand on the monastery steps.",
+    "entities": [
+      "Karma"
+    ],
+    "image": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Who holds Palden Aaju's hand on the steps?",
+    "choices": [
+      "Karma",
+      "Rohan",
+      "Ayan"
+    ],
+    "correctChoice": "Karma"
+  },
+  {
+    "id": "patient_demo_004_memory_004",
+    "patientId": "patient_demo_004",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "place",
+    "title": "Rumtek Monastery",
+    "content": "Morning visits to Rumtek are among Palden Aaju's calmest memories.",
+    "entities": [
+      "Rumtek"
+    ],
+    "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Which monastery is visited in the morning?",
+    "choices": [
+      "Rumtek",
+      "Kangla",
+      "Kisama"
+    ],
+    "correctChoice": "Rumtek"
+  },
+  {
+    "id": "patient_demo_004_memory_005",
+    "patientId": "patient_demo_004",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "place",
+    "title": "MG Marg",
+    "content": "MG Marg is a familiar stretch for slow evening walks.",
+    "entities": [
+      "MG Marg"
+    ],
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Where are the slow evening walks?",
+    "choices": [
+      "MG Marg",
+      "Police Bazaar",
+      "Ima Keithel"
+    ],
+    "correctChoice": "MG Marg"
+  },
+  {
+    "id": "patient_demo_004_memory_006",
+    "patientId": "patient_demo_004",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "place",
+    "title": "Cardamom Garden",
+    "content": "Palden Aaju remembers the smell of cardamom gardens after rain.",
+    "entities": [
+      "cardamom"
+    ],
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Which garden is remembered after rain?",
+    "choices": [
+      "Cardamom garden",
+      "Tea garden",
+      "Lotus pond"
+    ],
+    "correctChoice": "Cardamom garden"
+  },
+  {
+    "id": "patient_demo_004_memory_007",
+    "patientId": "patient_demo_004",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "food",
+    "title": "Thukpa",
+    "content": "A bowl of thukpa on a cold evening is a familiar comfort.",
+    "entities": [
+      "thukpa"
+    ],
+    "image": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Which soup is comforting on cold evenings?",
+    "choices": [
+      "Thukpa",
+      "Maas tenga",
+      "Singju"
+    ],
+    "correctChoice": "Thukpa"
+  },
+  {
+    "id": "patient_demo_004_memory_008",
+    "patientId": "patient_demo_004",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "food",
+    "title": "Momos",
+    "content": "Momos are associated with family gatherings in Gangtok.",
+    "entities": [
+      "momos"
+    ],
+    "image": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Which food is associated with family gatherings?",
+    "choices": [
+      "Momos",
+      "Til pitha",
+      "Jadoh"
+    ],
+    "correctChoice": "Momos"
+  },
+  {
+    "id": "patient_demo_004_memory_009",
+    "patientId": "patient_demo_004",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "food",
+    "title": "Sel Roti",
+    "content": "Sel roti is prepared during festivals and shared with neighbours.",
+    "entities": [
+      "sel roti"
+    ],
+    "image": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Which ring-shaped bread is shared at festivals?",
+    "choices": [
+      "Sel roti",
+      "Pukhlein",
+      "Ghila pitha"
+    ],
+    "correctChoice": "Sel roti"
+  },
+  {
+    "id": "patient_demo_004_memory_010",
+    "patientId": "patient_demo_004",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "routine",
+    "title": "Butter Tea",
+    "content": "Palden Aaju starts most mornings with butter tea.",
+    "entities": [
+      "butter tea"
+    ],
+    "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "What does Palden Aaju drink in the morning?",
+    "choices": [
+      "Butter tea",
+      "Assam tea",
+      "Sha"
+    ],
+    "correctChoice": "Butter tea"
+  },
+  {
+    "id": "patient_demo_004_memory_011",
+    "patientId": "patient_demo_004",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "music",
+    "title": "Monastery Chants",
+    "content": "Chants from the monastery feel familiar and settling.",
+    "entities": [
+      "chants"
+    ],
+    "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Which sound feels familiar in the morning?",
+    "choices": [
+      "Monastery chants",
+      "Bihu dhol",
+      "Traffic horns"
+    ],
+    "correctChoice": "Monastery chants"
+  },
+  {
+    "id": "patient_demo_004_memory_012",
+    "patientId": "patient_demo_004",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "object",
+    "title": "Prayer Flags",
+    "content": "Prayer flags outside the window move with the mountain wind.",
+    "entities": [
+      "prayer flags"
+    ],
+    "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "What moves with the mountain wind?",
+    "choices": [
+      "Prayer flags",
+      "A gamosa",
+      "A jainsem"
+    ],
+    "correctChoice": "Prayer flags"
+  },
+  {
+    "id": "patient_demo_004_memory_013",
+    "patientId": "patient_demo_004",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "festival",
+    "title": "Losar Morning",
+    "content": "Losar is remembered through early visits, warm food, and new clothes.",
+    "entities": [
+      "Losar"
+    ],
+    "image": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Which new-year morning is remembered?",
+    "choices": [
+      "Losar",
+      "Rongali Bihu",
+      "Hornbill"
+    ],
+    "correctChoice": "Losar",
+    "sequence": [
+      "Early visit",
+      "Warm food is shared",
+      "New clothes are worn"
+    ]
+  },
+  {
+    "id": "patient_demo_004_memory_014",
+    "patientId": "patient_demo_004",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "place",
+    "title": "Gangtok Home",
+    "content": "The family home in Gangtok looks toward the hills.",
+    "entities": [
+      "Gangtok"
+    ],
+    "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Which town is home?",
+    "choices": [
+      "Gangtok",
+      "Kohima",
+      "Imphal"
+    ],
+    "correctChoice": "Gangtok"
+  },
+  {
+    "id": "patient_demo_004_memory_015",
+    "patientId": "patient_demo_004",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "stories",
+    "title": "Walking Stories",
+    "content": "Palden Aaju tells Karma about walking to school before the roads were wide.",
+    "entities": [
+      "Karma"
+    ],
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Who hears the walking-to-school stories?",
+    "choices": [
+      "Karma",
+      "Leima",
+      "Rohan"
+    ],
+    "correctChoice": "Karma"
+  },
+  {
+    "id": "patient_demo_004_memory_016",
+    "patientId": "patient_demo_004",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "routine",
+    "title": "Quiet Afternoon",
+    "content": "Afternoons are for sitting near the window and watching clouds move.",
+    "entities": [
+      "window"
+    ],
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "What happens on quiet afternoons?",
+    "choices": [
+      "Watching clouds from the window",
+      "A football match",
+      "A long flight"
+    ],
+    "correctChoice": "Watching clouds from the window"
+  },
+  {
+    "id": "patient_demo_004_memory_017",
+    "patientId": "patient_demo_004",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "object",
+    "title": "Wooden Bowl",
+    "content": "A wooden bowl used for tea sits on the shelf.",
+    "entities": [
+      "bowl"
+    ],
+    "image": "https://images.unsplash.com/photo-1452587925488-aa02fd57252b?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "What sits on the shelf?",
+    "choices": [
+      "A wooden tea bowl",
+      "A bicycle bell",
+      "A school bag"
+    ],
+    "correctChoice": "A wooden tea bowl"
+  },
+  {
+    "id": "patient_demo_004_memory_018",
+    "patientId": "patient_demo_004",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "conversation",
+      "recall",
+      "sequence"
+    ],
+    "category": "family",
+    "title": "Evening Together",
+    "content": "Evenings are slow: tea, a short walk, and talking with Yangchen.",
+    "entities": [
+      "Yangchen",
+      "tea"
+    ],
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1600&q=80",
+    "sequence": [
+      "Tea is poured",
+      "A short walk",
+      "Talking together"
+    ]
+  }
+]

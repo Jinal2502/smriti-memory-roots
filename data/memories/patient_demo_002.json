@@ -1,0 +1,471 @@
+[
+  {
+    "id": "patient_demo_002_memory_001",
+    "patientId": "patient_demo_002",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "family",
+    "title": "Daughter Iban",
+    "content": "Kong Lin's daughter is named Iban. She brings vegetables from Police Bazaar on Saturday mornings.",
+    "entities": [
+      "Iban"
+    ],
+    "image": "https://images.unsplash.com/photo-1511895426328-dc8714191300?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Who brings vegetables on Saturday?",
+    "choices": [
+      "Iban",
+      "Dalen",
+      "Bah Don"
+    ],
+    "correctChoice": "Iban"
+  },
+  {
+    "id": "patient_demo_002_memory_002",
+    "patientId": "patient_demo_002",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "family",
+    "title": "Son Dalen",
+    "content": "Kong Lin's son is named Dalen. He drives her to church when the rain is heavy.",
+    "entities": [
+      "Dalen"
+    ],
+    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=900&q=80",
+    "prompt": "Who drives Kong Lin to church in the rain?",
+    "choices": [
+      "Dalen",
+      "Iban",
+      "Karma"
+    ],
+    "correctChoice": "Dalen"
+  },
+  {
+    "id": "patient_demo_002_memory_003",
+    "patientId": "patient_demo_002",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "place",
+    "title": "Shillong Hills",
+    "content": "Kong Lin remembers the pine-covered hills around Shillong, especially after rain.",
+    "entities": [
+      "Shillong"
+    ],
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Which city sits among pine hills?",
+    "choices": [
+      "Shillong",
+      "Guwahati",
+      "Agartala"
+    ],
+    "correctChoice": "Shillong"
+  },
+  {
+    "id": "patient_demo_002_memory_004",
+    "patientId": "patient_demo_002",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "place",
+    "title": "Laitlum Canyon",
+    "content": "Kong Lin remembers quiet walks at Laitlum, looking across the canyon with family.",
+    "entities": [
+      "Laitlum"
+    ],
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Where did the family walk across open hills?",
+    "choices": [
+      "Laitlum",
+      "Loktak",
+      "Rumtek"
+    ],
+    "correctChoice": "Laitlum"
+  },
+  {
+    "id": "patient_demo_002_memory_005",
+    "patientId": "patient_demo_002",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "place",
+    "title": "Police Bazaar",
+    "content": "Police Bazaar is a familiar market where Kong Lin used to choose fresh produce.",
+    "entities": [
+      "Police Bazaar"
+    ],
+    "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Which market is familiar in Shillong?",
+    "choices": [
+      "Police Bazaar",
+      "Ima Keithel",
+      "MG Marg"
+    ],
+    "correctChoice": "Police Bazaar"
+  },
+  {
+    "id": "patient_demo_002_memory_006",
+    "patientId": "patient_demo_002",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "food",
+    "title": "Jadoh",
+    "content": "Kong Lin remembers jadoh as a familiar rice dish cooked for family Sundays.",
+    "entities": [
+      "jadoh"
+    ],
+    "image": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Which rice dish is cooked on Sundays?",
+    "choices": [
+      "Jadoh",
+      "Til pitha",
+      "Thukpa"
+    ],
+    "correctChoice": "Jadoh"
+  },
+  {
+    "id": "patient_demo_002_memory_007",
+    "patientId": "patient_demo_002",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "food",
+    "title": "Tungrymbai",
+    "content": "Tungrymbai is a fermented soybean dish Kong Lin associates with home cooking.",
+    "entities": [
+      "tungrymbai"
+    ],
+    "image": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Which soybean dish is cooked at home?",
+    "choices": [
+      "Tungrymbai",
+      "Maas tenga",
+      "Momos"
+    ],
+    "correctChoice": "Tungrymbai"
+  },
+  {
+    "id": "patient_demo_002_memory_008",
+    "patientId": "patient_demo_002",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "food",
+    "title": "Pukhlein",
+    "content": "Kong Lin remembers pukhlein as a sweet rice cake shared during visits.",
+    "entities": [
+      "pukhlein"
+    ],
+    "image": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Which sweet rice cake is shared with guests?",
+    "choices": [
+      "Pukhlein",
+      "Sel roti",
+      "Galho"
+    ],
+    "correctChoice": "Pukhlein"
+  },
+  {
+    "id": "patient_demo_002_memory_009",
+    "patientId": "patient_demo_002",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "routine",
+    "title": "Morning Sha",
+    "content": "Kong Lin starts the day with a quiet cup of sha while looking at the rain.",
+    "entities": [
+      "sha",
+      "tea"
+    ],
+    "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "What does Kong Lin drink in the morning?",
+    "choices": [
+      "Sha",
+      "Butter tea",
+      "Coffee soda"
+    ],
+    "correctChoice": "Sha"
+  },
+  {
+    "id": "patient_demo_002_memory_010",
+    "patientId": "patient_demo_002",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "routine",
+    "title": "Kwai After Lunch",
+    "content": "Sharing kwai after lunch is a familiar, unhurried habit in Kong Lin's home.",
+    "entities": [
+      "kwai"
+    ],
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "What is shared after lunch at home?",
+    "choices": [
+      "Kwai",
+      "Ice cream",
+      "Popcorn"
+    ],
+    "correctChoice": "Kwai"
+  },
+  {
+    "id": "patient_demo_002_memory_011",
+    "patientId": "patient_demo_002",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "music",
+    "title": "Church Hymns",
+    "content": "Kong Lin remembers singing Khasi hymns in church. The familiar tunes feel like home.",
+    "entities": [
+      "hymns"
+    ],
+    "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Which music does Kong Lin remember from church?",
+    "choices": [
+      "Khasi hymns",
+      "Bihu songs",
+      "Film scores"
+    ],
+    "correctChoice": "Khasi hymns"
+  },
+  {
+    "id": "patient_demo_002_memory_012",
+    "patientId": "patient_demo_002",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "object",
+    "title": "Jainsem",
+    "content": "Kong Lin keeps a jainsem folded carefully for Sundays and family occasions.",
+    "entities": [
+      "jainsem"
+    ],
+    "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Which garment is kept for Sundays?",
+    "choices": [
+      "Jainsem",
+      "Gamosa",
+      "Phanek"
+    ],
+    "correctChoice": "Jainsem"
+  },
+  {
+    "id": "patient_demo_002_memory_013",
+    "patientId": "patient_demo_002",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "festival",
+    "title": "Christmas in Shillong",
+    "content": "Kong Lin remembers Christmas in Shillong through choir practice, lights, and family meals.",
+    "entities": [
+      "Christmas"
+    ],
+    "image": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Which winter celebration is remembered in Shillong?",
+    "choices": [
+      "Christmas",
+      "Rongali Bihu",
+      "Hornbill"
+    ],
+    "correctChoice": "Christmas"
+  },
+  {
+    "id": "patient_demo_002_memory_014",
+    "patientId": "patient_demo_002",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "place",
+    "title": "Pine Walk After Rain",
+    "content": "After rain, Kong Lin likes a slow walk among pine trees near home.",
+    "entities": [
+      "pine",
+      "rain"
+    ],
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Where does Kong Lin walk after rain?",
+    "choices": [
+      "Among pine trees",
+      "Along a desert",
+      "Inside a mall"
+    ],
+    "correctChoice": "Among pine trees"
+  },
+  {
+    "id": "patient_demo_002_memory_015",
+    "patientId": "patient_demo_002",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "family",
+    "title": "Bah Don",
+    "content": "Kong Lin's husband is Bah Don. They used to listen to the radio together in the evening.",
+    "entities": [
+      "Bah Don"
+    ],
+    "image": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?auto=format&fit=crop&w=900&q=80",
+    "prompt": "Who listened to the radio with Kong Lin?",
+    "choices": [
+      "Bah Don",
+      "Rohan",
+      "Temjen"
+    ],
+    "correctChoice": "Bah Don"
+  },
+  {
+    "id": "patient_demo_002_memory_016",
+    "patientId": "patient_demo_002",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "stories",
+    "title": "Stories of the Hills",
+    "content": "Kong Lin tells Iban stories about walking to school through mist.",
+    "entities": [
+      "Iban",
+      "stories"
+    ],
+    "image": "https://images.unsplash.com/photo-1428592953211-077101b2021b?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Who hears Kong Lin's school-day stories?",
+    "choices": [
+      "Iban",
+      "Rohan",
+      "Leima"
+    ],
+    "correctChoice": "Iban"
+  },
+  {
+    "id": "patient_demo_002_memory_017",
+    "patientId": "patient_demo_002",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "object",
+    "title": "Family Photograph",
+    "content": "A small framed photograph sits near the window in Kong Lin's room.",
+    "entities": [
+      "photograph"
+    ],
+    "image": "https://images.unsplash.com/photo-1452587925488-aa02fd57252b?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "What sits near the window?",
+    "choices": [
+      "A family photograph",
+      "A bicycle",
+      "A radio tower"
+    ],
+    "correctChoice": "A family photograph"
+  },
+  {
+    "id": "patient_demo_002_memory_018",
+    "patientId": "patient_demo_002",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "sequence",
+      "conversation"
+    ],
+    "category": "routine",
+    "title": "Saturday Market",
+    "content": "Saturday mornings mean choosing greens at the market, then cooking slowly at home.",
+    "entities": [
+      "market"
+    ],
+    "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=1600&q=80",
+    "sequence": [
+      "Walk to the market",
+      "Choose fresh greens",
+      "Cook slowly at home"
+    ]
+  }
+]

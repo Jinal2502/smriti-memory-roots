@@ -1,0 +1,474 @@
+[
+  {
+    "id": "patient_demo_006_memory_001",
+    "patientId": "patient_demo_006",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "family",
+    "title": "Wife Alemla",
+    "content": "Temjen Apa's wife is Alemla. They share black tea before the house wakes.",
+    "entities": [
+      "Alemla"
+    ],
+    "image": "https://images.unsplash.com/photo-1511895426328-dc8714191300?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Who shares black tea with Temjen Apa?",
+    "choices": [
+      "Alemla",
+      "Naro",
+      "Moa"
+    ],
+    "correctChoice": "Alemla"
+  },
+  {
+    "id": "patient_demo_006_memory_002",
+    "patientId": "patient_demo_006",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "family",
+    "title": "Son Moa",
+    "content": "Moa visits from town and helps repair small things around the house.",
+    "entities": [
+      "Moa"
+    ],
+    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=900&q=80",
+    "prompt": "Who helps repair things around the house?",
+    "choices": [
+      "Moa",
+      "Arun",
+      "Tenzing"
+    ],
+    "correctChoice": "Moa"
+  },
+  {
+    "id": "patient_demo_006_memory_003",
+    "patientId": "patient_demo_006",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "family",
+    "title": "Granddaughter Naro",
+    "content": "Naro likes sitting beside Temjen Apa while he tells village stories.",
+    "entities": [
+      "Naro"
+    ],
+    "image": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Who sits beside Temjen Apa for stories?",
+    "choices": [
+      "Naro",
+      "Rohan",
+      "Leima"
+    ],
+    "correctChoice": "Naro"
+  },
+  {
+    "id": "patient_demo_006_memory_004",
+    "patientId": "patient_demo_006",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "place",
+    "title": "Kohima Village",
+    "content": "The village path in Kohima is one of Temjen Apa's most familiar walks.",
+    "entities": [
+      "Kohima"
+    ],
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Which village path is most familiar?",
+    "choices": [
+      "Kohima village",
+      "MG Marg",
+      "Police Bazaar"
+    ],
+    "correctChoice": "Kohima village"
+  },
+  {
+    "id": "patient_demo_006_memory_005",
+    "patientId": "patient_demo_006",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "place",
+    "title": "Kisama",
+    "content": "Kisama is remembered from Hornbill evenings with music and gathering.",
+    "entities": [
+      "Kisama"
+    ],
+    "image": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Where are Hornbill evenings remembered?",
+    "choices": [
+      "Kisama",
+      "Rumtek",
+      "Loktak"
+    ],
+    "correctChoice": "Kisama"
+  },
+  {
+    "id": "patient_demo_006_memory_006",
+    "patientId": "patient_demo_006",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "place",
+    "title": "Church Courtyard",
+    "content": "Sunday mornings are associated with the church courtyard.",
+    "entities": [
+      "church"
+    ],
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Where are Sunday mornings spent?",
+    "choices": [
+      "The church courtyard",
+      "A tea garden",
+      "Ima Keithel"
+    ],
+    "correctChoice": "The church courtyard"
+  },
+  {
+    "id": "patient_demo_006_memory_007",
+    "patientId": "patient_demo_006",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "food",
+    "title": "Smoked Pork",
+    "content": "Smoked pork cooked at home is a familiar family meal.",
+    "entities": [
+      "smoked pork"
+    ],
+    "image": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Which meat dish is familiar at home?",
+    "choices": [
+      "Smoked pork",
+      "Maas tenga",
+      "Pabda fish"
+    ],
+    "correctChoice": "Smoked pork"
+  },
+  {
+    "id": "patient_demo_006_memory_008",
+    "patientId": "patient_demo_006",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "food",
+    "title": "Galho",
+    "content": "Galho is a rice and vegetable dish Temjen Apa associates with quiet evenings.",
+    "entities": [
+      "galho"
+    ],
+    "image": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Which rice dish belongs to quiet evenings?",
+    "choices": [
+      "Galho",
+      "Jadoh",
+      "Thukpa"
+    ],
+    "correctChoice": "Galho"
+  },
+  {
+    "id": "patient_demo_006_memory_009",
+    "patientId": "patient_demo_006",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "food",
+    "title": "Axone",
+    "content": "Axone is a fermented soybean flavour that belongs to home cooking.",
+    "entities": [
+      "axone"
+    ],
+    "image": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Which flavour belongs to home cooking?",
+    "choices": [
+      "Axone",
+      "Til pitha",
+      "Sel roti"
+    ],
+    "correctChoice": "Axone"
+  },
+  {
+    "id": "patient_demo_006_memory_010",
+    "patientId": "patient_demo_006",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "routine",
+    "title": "Black Tea",
+    "content": "Temjen Apa starts the day with strong black tea.",
+    "entities": [
+      "black tea"
+    ],
+    "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "What does Temjen Apa drink in the morning?",
+    "choices": [
+      "Black tea",
+      "Butter tea",
+      "Lemon soda"
+    ],
+    "correctChoice": "Black tea"
+  },
+  {
+    "id": "patient_demo_006_memory_011",
+    "patientId": "patient_demo_006",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "festival",
+    "title": "Hornbill Evening",
+    "content": "Hornbill Festival evenings are remembered through dance, firelight, and gathering.",
+    "entities": [
+      "Hornbill"
+    ],
+    "image": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Which festival evening is remembered?",
+    "choices": [
+      "Hornbill",
+      "Rongali Bihu",
+      "Losar"
+    ],
+    "correctChoice": "Hornbill",
+    "sequence": [
+      "People gather",
+      "Dance and music begin",
+      "Stories are shared"
+    ]
+  },
+  {
+    "id": "patient_demo_006_memory_012",
+    "patientId": "patient_demo_006",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "music",
+    "title": "Ao Folk Songs",
+    "content": "Ao folk songs remind Temjen Apa of earlier village nights.",
+    "entities": [
+      "Ao folk songs"
+    ],
+    "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Which songs belong to village nights?",
+    "choices": [
+      "Ao folk songs",
+      "Bihu songs",
+      "Film songs"
+    ],
+    "correctChoice": "Ao folk songs"
+  },
+  {
+    "id": "patient_demo_006_memory_013",
+    "patientId": "patient_demo_006",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "object",
+    "title": "Bamboo Basket",
+    "content": "A bamboo basket hangs near the door and is used for small errands.",
+    "entities": [
+      "bamboo"
+    ],
+    "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "What hangs near the door?",
+    "choices": [
+      "A bamboo basket",
+      "A gamosa",
+      "Prayer flags"
+    ],
+    "correctChoice": "A bamboo basket"
+  },
+  {
+    "id": "patient_demo_006_memory_014",
+    "patientId": "patient_demo_006",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "stories",
+    "title": "Village Path Stories",
+    "content": "Temjen Apa tells Naro about walking the village path before sunrise.",
+    "entities": [
+      "Naro"
+    ],
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Who hears the village path stories?",
+    "choices": [
+      "Naro",
+      "Ayan",
+      "Karma"
+    ],
+    "correctChoice": "Naro"
+  },
+  {
+    "id": "patient_demo_006_memory_015",
+    "patientId": "patient_demo_006",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "routine",
+    "title": "Morning Path",
+    "content": "A slow walk on the village path happens before breakfast.",
+    "entities": [
+      "path"
+    ],
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "When is the village path walked?",
+    "choices": [
+      "Before breakfast",
+      "At midnight",
+      "During a flight"
+    ],
+    "correctChoice": "Before breakfast"
+  },
+  {
+    "id": "patient_demo_006_memory_016",
+    "patientId": "patient_demo_006",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "object",
+    "title": "Family Photograph",
+    "content": "A photograph from a church gathering sits on the shelf.",
+    "entities": [
+      "photograph"
+    ],
+    "image": "https://images.unsplash.com/photo-1452587925488-aa02fd57252b?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "What sits on the shelf?",
+    "choices": [
+      "A church gathering photograph",
+      "A kettle",
+      "A map"
+    ],
+    "correctChoice": "A church gathering photograph"
+  },
+  {
+    "id": "patient_demo_006_memory_017",
+    "patientId": "patient_demo_006",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "place",
+    "title": "Evening Firelight",
+    "content": "Cool evenings are associated with sitting near firelight and talking slowly.",
+    "entities": [
+      "firelight"
+    ],
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "What are cool evenings associated with?",
+    "choices": [
+      "Firelight and slow talk",
+      "A crowded station",
+      "An airport"
+    ],
+    "correctChoice": "Firelight and slow talk"
+  },
+  {
+    "id": "patient_demo_006_memory_018",
+    "patientId": "patient_demo_006",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "conversation",
+      "recall",
+      "sequence"
+    ],
+    "category": "family",
+    "title": "Sunday Together",
+    "content": "Sundays are for church, a shared meal, and sitting with Alemla.",
+    "entities": [
+      "Alemla",
+      "church"
+    ],
+    "image": "https://images.unsplash.com/photo-1511895426328-dc8714191300?auto=format&fit=crop&w=1600&q=80",
+    "sequence": [
+      "Walk to church",
+      "Share a meal",
+      "Sit together at home"
+    ]
+  }
+]

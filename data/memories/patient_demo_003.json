@@ -1,0 +1,474 @@
+[
+  {
+    "id": "patient_demo_003_memory_001",
+    "patientId": "patient_demo_003",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "family",
+    "title": "Daughter Thoibi",
+    "content": "Ibemhal Ima's daughter is named Thoibi. She walks with her to Ima Keithel on market days.",
+    "entities": [
+      "Thoibi"
+    ],
+    "image": "https://images.unsplash.com/photo-1511895426328-dc8714191300?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Who walks with Ibemhal Ima to the market?",
+    "choices": [
+      "Thoibi",
+      "Tomba",
+      "Leima"
+    ],
+    "correctChoice": "Thoibi"
+  },
+  {
+    "id": "patient_demo_003_memory_002",
+    "patientId": "patient_demo_003",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "family",
+    "title": "Granddaughter Leima",
+    "content": "Leima sits beside Ibemhal Ima in the evening and asks for old stories.",
+    "entities": [
+      "Leima"
+    ],
+    "image": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Who asks for old stories in the evening?",
+    "choices": [
+      "Leima",
+      "Rohan",
+      "Karma"
+    ],
+    "correctChoice": "Leima"
+  },
+  {
+    "id": "patient_demo_003_memory_003",
+    "patientId": "patient_demo_003",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "place",
+    "title": "Ima Keithel",
+    "content": "Ima Keithel, the women's market, is one of Ibemhal Ima's strongest familiar places.",
+    "entities": [
+      "Ima Keithel"
+    ],
+    "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Which market is run by women in Imphal?",
+    "choices": [
+      "Ima Keithel",
+      "Police Bazaar",
+      "MG Marg"
+    ],
+    "correctChoice": "Ima Keithel"
+  },
+  {
+    "id": "patient_demo_003_memory_004",
+    "patientId": "patient_demo_003",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "place",
+    "title": "Loktak Lake",
+    "content": "Ibemhal Ima remembers quiet hours looking across Loktak Lake.",
+    "entities": [
+      "Loktak"
+    ],
+    "image": "https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Which lake is familiar to Ibemhal Ima?",
+    "choices": [
+      "Loktak",
+      "Brahmaputra",
+      "Laitlum"
+    ],
+    "correctChoice": "Loktak"
+  },
+  {
+    "id": "patient_demo_003_memory_005",
+    "patientId": "patient_demo_003",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "place",
+    "title": "Kangla",
+    "content": "Walks near Kangla are associated with cooler air and family outings.",
+    "entities": [
+      "Kangla"
+    ],
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Where did the family walk in cooler air?",
+    "choices": [
+      "Kangla",
+      "Kisama",
+      "Tea garden"
+    ],
+    "correctChoice": "Kangla"
+  },
+  {
+    "id": "patient_demo_003_memory_006",
+    "patientId": "patient_demo_003",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "food",
+    "title": "Eronba",
+    "content": "Eronba is a mashed vegetable dish Ibemhal Ima associates with home meals.",
+    "entities": [
+      "eronba"
+    ],
+    "image": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Which mashed dish is cooked at home?",
+    "choices": [
+      "Eronba",
+      "Khar",
+      "Jadoh"
+    ],
+    "correctChoice": "Eronba"
+  },
+  {
+    "id": "patient_demo_003_memory_007",
+    "patientId": "patient_demo_003",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "food",
+    "title": "Singju",
+    "content": "Singju is a fresh salad Ibemhal Ima likes to share when guests arrive.",
+    "entities": [
+      "singju"
+    ],
+    "image": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "What fresh salad is shared with guests?",
+    "choices": [
+      "Singju",
+      "Thukpa",
+      "Pitha"
+    ],
+    "correctChoice": "Singju"
+  },
+  {
+    "id": "patient_demo_003_memory_008",
+    "patientId": "patient_demo_003",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "food",
+    "title": "Chak-hao Kheer",
+    "content": "Black rice kheer is remembered from festival evenings.",
+    "entities": [
+      "chak-hao"
+    ],
+    "image": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Which sweet uses black rice?",
+    "choices": [
+      "Chak-hao kheer",
+      "Til pitha",
+      "Pukhlein"
+    ],
+    "correctChoice": "Chak-hao kheer"
+  },
+  {
+    "id": "patient_demo_003_memory_009",
+    "patientId": "patient_demo_003",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "festival",
+    "title": "Lai Haraoba",
+    "content": "Lai Haraoba is remembered through dance, lamps, and gathering with neighbours.",
+    "entities": [
+      "Lai Haraoba"
+    ],
+    "image": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Which festival includes dance and lamps?",
+    "choices": [
+      "Lai Haraoba",
+      "Magh Bihu",
+      "Christmas"
+    ],
+    "correctChoice": "Lai Haraoba",
+    "sequence": [
+      "Lamps are lit",
+      "Dance begins",
+      "Neighbours gather"
+    ]
+  },
+  {
+    "id": "patient_demo_003_memory_010",
+    "patientId": "patient_demo_003",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "music",
+    "title": "Pena Songs",
+    "content": "Ibemhal Ima enjoys the sound of pena songs from earlier celebrations.",
+    "entities": [
+      "pena"
+    ],
+    "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Which instrument's songs feel familiar?",
+    "choices": [
+      "Pena songs",
+      "Electric guitar",
+      "Bihu dhol only"
+    ],
+    "correctChoice": "Pena songs"
+  },
+  {
+    "id": "patient_demo_003_memory_011",
+    "patientId": "patient_demo_003",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "object",
+    "title": "Phanek",
+    "content": "A woven phanek is kept for festival days and family photographs.",
+    "entities": [
+      "phanek"
+    ],
+    "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Which woven cloth is kept for festival days?",
+    "choices": [
+      "Phanek",
+      "Gamosa",
+      "Jainsem"
+    ],
+    "correctChoice": "Phanek"
+  },
+  {
+    "id": "patient_demo_003_memory_012",
+    "patientId": "patient_demo_003",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "routine",
+    "title": "Early Market Day",
+    "content": "On market mornings Ibemhal Ima likes to leave while the lanes are still quiet.",
+    "entities": [
+      "market"
+    ],
+    "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "When does Ibemhal Ima like to go to market?",
+    "choices": [
+      "Early, while lanes are quiet",
+      "At midnight",
+      "After the market closes"
+    ],
+    "correctChoice": "Early, while lanes are quiet"
+  },
+  {
+    "id": "patient_demo_003_memory_013",
+    "patientId": "patient_demo_003",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "family",
+    "title": "Tomba",
+    "content": "Ibemhal Ima's husband is Tomba. They used to sit by the courtyard after dinner.",
+    "entities": [
+      "Tomba"
+    ],
+    "image": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?auto=format&fit=crop&w=900&q=80",
+    "prompt": "Who sat in the courtyard after dinner?",
+    "choices": [
+      "Tomba",
+      "Arun",
+      "Moa"
+    ],
+    "correctChoice": "Tomba"
+  },
+  {
+    "id": "patient_demo_003_memory_014",
+    "patientId": "patient_demo_003",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "stories",
+    "title": "Lotus Pond Stories",
+    "content": "Ibemhal Ima tells Leima about lotus ponds near home in the rainy months.",
+    "entities": [
+      "lotus",
+      "Leima"
+    ],
+    "image": "https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Who hears stories about lotus ponds?",
+    "choices": [
+      "Leima",
+      "Rohan",
+      "Iban"
+    ],
+    "correctChoice": "Leima"
+  },
+  {
+    "id": "patient_demo_003_memory_015",
+    "patientId": "patient_demo_003",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "routine",
+    "title": "Evening Courtyard",
+    "content": "Evenings are for sitting in the courtyard and listening to the neighbourhood.",
+    "entities": [
+      "courtyard"
+    ],
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Where does the evening usually happen?",
+    "choices": [
+      "In the courtyard",
+      "On a train",
+      "In an office"
+    ],
+    "correctChoice": "In the courtyard"
+  },
+  {
+    "id": "patient_demo_003_memory_016",
+    "patientId": "patient_demo_003",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "object",
+    "title": "Old Photograph",
+    "content": "A photograph from a family wedding sits on a low shelf.",
+    "entities": [
+      "photograph"
+    ],
+    "image": "https://images.unsplash.com/photo-1452587925488-aa02fd57252b?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "What sits on the low shelf?",
+    "choices": [
+      "A wedding photograph",
+      "A kettle",
+      "A bicycle"
+    ],
+    "correctChoice": "A wedding photograph"
+  },
+  {
+    "id": "patient_demo_003_memory_017",
+    "patientId": "patient_demo_003",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "recognition",
+      "conversation"
+    ],
+    "category": "place",
+    "title": "Imphal Home",
+    "content": "The family home in Imphal is associated with the smell of cooking and woven mats.",
+    "entities": [
+      "Imphal"
+    ],
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1600&q=80",
+    "prompt": "Which city is home?",
+    "choices": [
+      "Imphal",
+      "Gangtok",
+      "Kohima"
+    ],
+    "correctChoice": "Imphal"
+  },
+  {
+    "id": "patient_demo_003_memory_018",
+    "patientId": "patient_demo_003",
+    "importance": "high",
+    "difficulty": "easy",
+    "language": "English",
+    "activityTypes": [
+      "recall",
+      "conversation",
+      "sequence"
+    ],
+    "category": "festival",
+    "title": "Neighbour Lamps",
+    "content": "During festivals, Ibemhal Ima remembers lamps appearing along the lane.",
+    "entities": [
+      "lamps"
+    ],
+    "image": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?auto=format&fit=crop&w=1600&q=80",
+    "sequence": [
+      "Dusk arrives",
+      "Lamps are placed along the lane",
+      "People come out to talk"
+    ]
+  }
+]

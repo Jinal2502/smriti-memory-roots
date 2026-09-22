@@ -1,0 +1,72 @@
+{
+  "id": "patient_demo_006",
+  "demo": true,
+  "name": "Temjen Ao",
+  "preferredName": "Temjen Apa",
+  "age": 73,
+  "gender": "male",
+  "state": "Nagaland",
+  "city": "Kohima",
+  "region": "North Eastern Region",
+  "primaryLanguage": "Ao",
+  "supportedLanguages": [
+    "Ao",
+    "Nagamese",
+    "English"
+  ],
+  "profileSummary": "Fictional demonstration profile from Nagaland. Memories of Hornbill evenings, village paths, and cooking with smoked pork.",
+  "memoryTheme": "Hornbill evenings and village paths",
+  "portrait": "",
+  "family": [
+    {
+      "name": "Alemla",
+      "relationship": "wife"
+    },
+    {
+      "name": "Moa",
+      "relationship": "son"
+    },
+    {
+      "name": "Naro",
+      "relationship": "granddaughter"
+    }
+  ],
+  "interests": [
+    "Hornbill Festival",
+    "church",
+    "bamboo crafts",
+    "storytelling"
+  ],
+  "favoriteThings": {
+    "food": [
+      "smoked pork",
+      "galho",
+      "axone"
+    ],
+    "drink": "black tea",
+    "music": "Ao folk songs",
+    "place": "Kohima village"
+  },
+  "familiarPlaces": [
+    "Kohima",
+    "Kisama",
+    "church courtyard",
+    "village path"
+  ],
+  "memoryStrengths": [
+    "stories",
+    "places",
+    "family",
+    "music"
+  ],
+  "memoryChallenges": [
+    "multi-step instructions",
+    "recent events"
+  ],
+  "preferredInteractionStyle": {
+    "textSize": "large",
+    "interactionMode": "voice_and_tap",
+    "feedbackStyle": "warm_and_encouraging",
+    "questionComplexity": "simple"
+  }
+}

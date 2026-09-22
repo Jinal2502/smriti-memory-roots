@@ -37,7 +37,6 @@ function calculateScore(query: string, memory: Memory): number {
     }
   }
 
-  // Give extra importance to direct entity/title matches.
   const normalizedTitle = normalize(memory.title);
   const normalizedContent = normalize(memory.content);
   const normalizedEntities = memory.entities.map(normalize);
@@ -56,7 +55,6 @@ function calculateScore(query: string, memory: Memory): number {
     }
   }
 
-  // Important memories get a small boost.
   if (memory.importance === "high") {
     score += 0.5;
   }
@@ -66,17 +64,25 @@ function calculateScore(query: string, memory: Memory): number {
 
 export function retrieveMemories(
   query: string,
-  topK: number = 3
+  topK: number = 3,
+  patientId: string = "patient_demo_001"
 ): RetrievedMemory[] {
-  const memories = loadMemoryBank();
+  const memories = loadMemoryBank(patientId);
 
   const scoredMemories = memories.map((memory) => ({
     ...memory,
     score: calculateScore(query, memory),
   }));
 
-  return scoredMemories
+  const hits = scoredMemories
     .filter((memory) => memory.score > 0)
     .sort((a, b) => b.score - a.score)
     .slice(0, topK);
+
+  if (hits.length) return hits;
+
+  return memories
+    .filter((memory) => memory.importance === "high" || memory.category === "family")
+    .slice(0, Math.max(topK, 3))
+    .map((memory) => ({ ...memory, score: 0.1 }));
 }

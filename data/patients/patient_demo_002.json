@@ -1,0 +1,72 @@
+{
+  "id": "patient_demo_002",
+  "demo": true,
+  "name": "Lin Kharkongor",
+  "preferredName": "Kong Lin",
+  "age": 68,
+  "gender": "female",
+  "state": "Meghalaya",
+  "city": "Shillong",
+  "region": "North Eastern Region",
+  "primaryLanguage": "Khasi",
+  "supportedLanguages": [
+    "Khasi",
+    "English",
+    "Hindi"
+  ],
+  "profileSummary": "Fictional demonstration profile from Meghalaya. Memories of pine hills, rain, church singing, and family kitchens in Shillong.",
+  "memoryTheme": "Pine rain, market mornings, and hymns",
+  "portrait": "",
+  "family": [
+    {
+      "name": "Bah Don",
+      "relationship": "husband"
+    },
+    {
+      "name": "Iban",
+      "relationship": "daughter"
+    },
+    {
+      "name": "Dalen",
+      "relationship": "son"
+    }
+  ],
+  "interests": [
+    "church choir",
+    "jainsem weaving",
+    "pine walks",
+    "kwai"
+  ],
+  "favoriteThings": {
+    "food": [
+      "jadoh",
+      "tungrymbai",
+      "pukhlein"
+    ],
+    "drink": "sha",
+    "music": "Khasi hymns",
+    "place": "Laitlum canyon"
+  },
+  "familiarPlaces": [
+    "Shillong",
+    "Police Bazaar",
+    "Laitlum",
+    "family kitchen"
+  ],
+  "memoryStrengths": [
+    "places",
+    "food",
+    "music",
+    "family"
+  ],
+  "memoryChallenges": [
+    "recent conversations",
+    "dates"
+  ],
+  "preferredInteractionStyle": {
+    "textSize": "large",
+    "interactionMode": "voice_and_tap",
+    "feedbackStyle": "warm_and_encouraging",
+    "questionComplexity": "simple"
+  }
+}
